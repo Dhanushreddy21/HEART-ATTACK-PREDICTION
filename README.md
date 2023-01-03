@@ -7,6 +7,8 @@ Completed this project as part of my Data Science and Machine Learning Internshi
 
 COLAB NOTEBOOK LINK:
 
+https://github.com/Dhanushreddy21/HEART-ATTACK-PREDICTION/blob/main/HDS_G7_HEART_ATTACK_PREDICTION%20(1)%20(1).ipynb
 
 PROJECT PRESENTATION LINK
+
 https://drive.google.com/file/d/1SaKnmosdkBlX4ykDRDhPmUagnYrZ7lTl/view?usp=share_link
